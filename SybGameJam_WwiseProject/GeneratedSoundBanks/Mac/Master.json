@@ -1,0 +1,342 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Mac",
+  "BasePlatform": "Mac",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "140",
+  "RootPaths": {
+   "ProjectRoot": "O:\\MyProjects\\UE4\\SybGameJam\\SybGameJam_WwiseProject\\",
+   "SourceFilesRoot": "O:\\MyProjects\\UE4\\SybGameJam\\SybGameJam_WwiseProject\\.cache\\Mac\\",
+   "SoundBanksRoot": "O:\\MyProjects\\UE4\\SybGameJam\\SybGameJam_WwiseProject\\GeneratedSoundBanks\\Mac\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "O:\\MyProjects\\UE4\\SybGameJam\\SybGameJam_WwiseProject\\GeneratedSoundBanks\\Mac"
+  },
+  "SoundBanks": [
+   {
+    "Id": "4056684167",
+    "GUID": "{D29F3021-46A8-4E55-8903-9B006D17C0A6}",
+    "Language": "SFX",
+    "Hash": "1863265081",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
+    "ShortName": "Master",
+    "Path": "Master.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "238653005",
+      "Name": "Breathing",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player\\Breathing",
+      "GUID": "{A1F4E365-7404-40B9-B275-F0EBC40417A3}",
+      "DurationType": "Infinite",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "6886749",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_in_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_in_03_C1F52A07.wem"
+       },
+       {
+        "Id": "22995029",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_exh_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_exh_02_C1F52A07.wem"
+       },
+       {
+        "Id": "43065295",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_exh_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_exh_03_C1F52A07.wem"
+       },
+       {
+        "Id": "53767253",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_in_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_in_02_C1F52A07.wem"
+       },
+       {
+        "Id": "91755290",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_st_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_st_01_C1F52A07.wem"
+       },
+       {
+        "Id": "97450749",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_st_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_st_02_C1F52A07.wem"
+       },
+       {
+        "Id": "100238377",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_in_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_in_02_C1F52A07.wem"
+       },
+       {
+        "Id": "130001223",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_ex_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_ex_01_C1F52A07.wem"
+       },
+       {
+        "Id": "139409022",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_ex_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_ex_02_C1F52A07.wem"
+       },
+       {
+        "Id": "157724419",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in__st_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in__st_01_C1F52A07.wem"
+       },
+       {
+        "Id": "197736468",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in_03_C1F52A07.wem"
+       },
+       {
+        "Id": "232856755",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_in_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_in_02_C1F52A07.wem"
+       },
+       {
+        "Id": "240574184",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_exh_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_exh_01_C1F52A07.wem"
+       },
+       {
+        "Id": "304005098",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_in_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_in_01_C1F52A07.wem"
+       },
+       {
+        "Id": "310958468",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_in_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_in_03_C1F52A07.wem"
+       },
+       {
+        "Id": "320628812",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_in_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_in_01_C1F52A07.wem"
+       },
+       {
+        "Id": "329219273",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_in_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_in_02_C1F52A07.wem"
+       },
+       {
+        "Id": "377717805",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_03_C1F52A07.wem"
+       },
+       {
+        "Id": "409063699",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_exh_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_exh_02_C1F52A07.wem"
+       },
+       {
+        "Id": "426139116",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_idle_ex_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_idle_ex_03_C1F52A07.wem"
+       },
+       {
+        "Id": "442637210",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_01_C1F52A07.wem"
+       },
+       {
+        "Id": "500463322",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_in_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_in_01_C1F52A07.wem"
+       },
+       {
+        "Id": "514919507",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_in_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_in_01_C1F52A07.wem"
+       },
+       {
+        "Id": "566892346",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in_02_C1F52A07.wem"
+       },
+       {
+        "Id": "587941404",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_in_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_in_03_C1F52A07.wem"
+       },
+       {
+        "Id": "597218843",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in__st_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in__st_02_C1F52A07.wem"
+       },
+       {
+        "Id": "614936926",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_exh_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_exh_03_C1F52A07.wem"
+       },
+       {
+        "Id": "667109819",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt02_exh_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt02_exh_02_C1F52A07.wem"
+       },
+       {
+        "Id": "747838272",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_02.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_02_C1F52A07.wem"
+       },
+       {
+        "Id": "820567222",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_exh_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_exh_01_C1F52A07.wem"
+       },
+       {
+        "Id": "823791991",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_exh_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_exh_01_C1F52A07.wem"
+       },
+       {
+        "Id": "858700514",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_in_04.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_in_04_C1F52A07.wem"
+       },
+       {
+        "Id": "891011470",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_exh_st_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_exh_st_03_C1F52A07.wem"
+       },
+       {
+        "Id": "899141221",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_exh_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_exh_03_C1F52A07.wem"
+       },
+       {
+        "Id": "950125255",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt01_in_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt01_in_03_C1F52A07.wem"
+       },
+       {
+        "Id": "1041825930",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in__st_03.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in__st_03_C1F52A07.wem"
+       },
+       {
+        "Id": "1061339103",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_walk_in_01.wav",
+        "Path": "SFX\\Player\\Breathing\\br_walk_in_01_C1F52A07.wem"
+       },
+       {
+        "Id": "1068397032",
+        "Language": "SFX",
+        "ShortName": "Player\\Breathing\\br_spirnt03_exh_04.wav",
+        "Path": "SFX\\Player\\Breathing\\br_spirnt03_exh_04_C1F52A07.wem"
+       }
+      ]
+     },
+     {
+      "Id": "139760902",
+      "Name": "Mooving",
+      "ObjectPath": "\\Events\\Default Work Unit\\Player\\Mooving",
+      "GUID": "{E2BB1318-B0AD-4F49-BA50-B40DD390F603}",
+      "DurationType": "OneShot",
+      "DurationMin": "0.",
+      "DurationMax": "0."
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "1771880628",
+      "Name": "Stamina",
+      "ObjectPath": "\\Game Parameters\\Default Work Unit\\Stamina",
+      "GUID": "{FE6891A2-02D0-4339-B603-CA8B4C76E25B}"
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "556887514",
+      "Name": "Locomotion",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Locomotion",
+      "GUID": "{6490976E-B406-4D46-8A3A-8FACD499A23C}",
+      "Switches": [
+       {
+        "Id": "2108779966",
+        "Name": "Walk",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Locomotion\\Walk",
+        "GUID": "{115781E7-3F39-458C-9F98-96F7BFC3D81D}"
+       },
+       {
+        "Id": "712161704",
+        "Name": "Run",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Locomotion\\Run",
+        "GUID": "{5DF3E83E-B817-4366-9CF7-F3C21623EC1D}"
+       },
+       {
+        "Id": "4054296493",
+        "Name": "Roller",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Locomotion\\Roller",
+        "GUID": "{B5B8F771-2EC9-4FBB-92EE-F54C084A5AE9}"
+       },
+       {
+        "Id": "68157183",
+        "Name": "Jumping",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Locomotion\\Jumping",
+        "GUID": "{CA87091D-9F4A-44EF-8290-DC1AF8662711}"
+       }
+      ]
+     },
+     {
+      "Id": "1834394558",
+      "Name": "Surface",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Surface",
+      "GUID": "{CB5CF817-4F9C-47B6-B96F-828699D7B702}",
+      "Switches": [
+       {
+        "Id": "803837735",
+        "Name": "Sand",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Surface\\Sand",
+        "GUID": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}"
+       },
+       {
+        "Id": "2185786256",
+        "Name": "Gravel",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Surface\\Gravel",
+        "GUID": "{5DDE5731-AE8C-4915-A873-2A72DA8EDD94}"
+       },
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Surface\\Wood",
+        "GUID": "{D27C2945-64DD-4BA8-B043-D844C75D5A83}"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ }
+}
