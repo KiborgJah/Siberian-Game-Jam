@@ -1,0 +1,56 @@
+Event	ID	Name			Wwise Object Path	Notes
+	139760902	Mooving			\Default Work Unit\Player\Mooving	
+	238653005	Breathing			\Default Work Unit\Player\Breathing	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	556887514	Locomotion			\Default Work Unit\Locomotion	
+
+Switch	ID	Name	Switch Group			Notes
+	68157183	Jumping	Locomotion			
+	712161704	Run	Locomotion			
+	2108779966	Walk	Locomotion			
+	4054296493	Roller	Locomotion			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1771880628	Stamina			\Default Work Unit\Stamina	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	6886749	br_spirnt03_in_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_in_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Inh\br_spirnt03_in_03		9994
+	22995029	br_spirnt01_exh_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_exh_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Exh\br_spirnt01_exh_02		12176
+	43065295	br_spirnt01_exh_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_exh_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Exh\br_spirnt01_exh_03		11418
+	53767253	br_spirnt01_in_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_in_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Inh\br_spirnt01_in_02		9316
+	91755290	br_walk_exh_st_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_st_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Exh\br_walk_exh_st_01		13942
+	97450749	br_walk_exh_st_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_st_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Exh\br_walk_exh_st_02		17107
+	100238377	br_spirnt03_in_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_in_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Inh\br_spirnt03_in_02		10211
+	130001223	br_idle_ex_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_ex_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Exh\br_idle_ex_01		17192
+	139409022	br_idle_ex_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_ex_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Exh\br_idle_ex_02		17689
+	157724419	br_walk_in__st_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in__st_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Inh\br_walk_in__st_01		15175
+	197736468	br_walk_in_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Inh\br_walk_in_03		14315
+	232856755	br_idle_in_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_in_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Inh\br_idle_in_02		13973
+	240574184	br_spirnt02_exh_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_exh_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Exh\br_spirnt02_exh_01		12484
+	304005098	br_idle_in_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_in_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Inh\br_idle_in_01		6633
+	310958468	br_idle_in_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_in_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Inh\br_idle_in_03		7563
+	320628812	br_spirnt02_in_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_in_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Inh\br_spirnt02_in_01		10556
+	329219273	br_spirnt02_in_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_in_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Inh\br_spirnt02_in_02		9602
+	377717805	br_walk_exh_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Exh\br_walk_exh_03		17009
+	409063699	br_spirnt03_exh_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_exh_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Exh\br_spirnt03_exh_02		12423
+	426139116	br_idle_ex_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_idle_ex_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Idle\Exh\br_idle_ex_03		21352
+	442637210	br_walk_exh_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Exh\br_walk_exh_01		14996
+	500463322	br_spirnt03_in_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_in_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Inh\br_spirnt03_in_01		6265
+	514919507	br_spirnt01_in_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_in_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Inh\br_spirnt01_in_01		9126
+	566892346	br_walk_in_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Inh\br_walk_in_02		14034
+	587941404	br_spirnt02_in_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_in_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Inh\br_spirnt02_in_03		10002
+	597218843	br_walk_in__st_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in__st_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Inh\br_walk_in__st_02		11589
+	614936926	br_spirnt02_exh_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_exh_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Exh\br_spirnt02_exh_03		11328
+	667109819	br_spirnt02_exh_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt02_exh_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run02\Exh\br_spirnt02_exh_02		11159
+	747838272	br_walk_exh_02	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_02_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Exh\br_walk_exh_02		15526
+	820567222	br_spirnt01_exh_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_exh_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Exh\br_spirnt01_exh_01		11055
+	823791991	br_spirnt03_exh_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_exh_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Exh\br_spirnt03_exh_01		12116
+	858700514	br_spirnt03_in_04	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_in_04_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Inh\br_spirnt03_in_04		7591
+	891011470	br_walk_exh_st_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_exh_st_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Exh\br_walk_exh_st_03		16919
+	899141221	br_spirnt03_exh_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_exh_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Exh\br_spirnt03_exh_03		8193
+	950125255	br_spirnt01_in_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt01_in_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run01\Inh\br_spirnt01_in_03		9245
+	1041825930	br_walk_in__st_03	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in__st_03_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk02\Inh\br_walk_in__st_03		11146
+	1061339103	br_walk_in_01	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_walk_in_01_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Walk01\Inh\br_walk_in_01		11836
+	1068397032	br_spirnt03_exh_04	O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\.cache\Mac\SFX\Player\Breathing\br_spirnt03_exh_04_C1F52A07.wem		\Actor-Mixer Hierarchy\Default Work Unit\Player\Breathing\Run03\Exh\br_spirnt03_exh_04		8980
+
