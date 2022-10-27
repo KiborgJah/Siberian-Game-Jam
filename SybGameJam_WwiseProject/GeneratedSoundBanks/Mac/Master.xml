@@ -8,7 +8,7 @@
 		<ExternalSourcesOutputRoot>O:\MyProjects\UE4\SybGameJam\SybGameJam_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<SoundBanks>
-		<SoundBank Id="4056684167" GUID="{D29F3021-46A8-4E55-8903-9B006D17C0A6}" Language="SFX" Hash="1863265081">
+		<SoundBank Id="4056684167" GUID="{D29F3021-46A8-4E55-8903-9B006D17C0A6}" Language="SFX" Hash="3495633495">
 			<ObjectPath>\SoundBanks\Default Work Unit\Master</ObjectPath>
 			<ShortName>Master</ShortName>
 			<Path>Master.bnk</Path>
@@ -169,7 +169,415 @@
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
-				<Event Id="139760902" Name="Mooving" ObjectPath="\Events\Default Work Unit\Player\Mooving" GUID="{E2BB1318-B0AD-4F49-BA50-B40DD390F603}" DurationType="OneShot" DurationMin="0." DurationMax="0."/>
+				<Event Id="139760902" Name="Mooving" ObjectPath="\Events\Default Work Unit\Player\Mooving" GUID="{E2BB1318-B0AD-4F49-BA50-B40DD390F603}" DurationType="OneShot" DurationMin="0." DurationMax="3.959887">
+					<IncludedMemoryFiles>
+						<File Id="3419481" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_59792B0E.wem</Path>
+						</File>
+						<File Id="12110048" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_93C3C2B1.wem</Path>
+						</File>
+						<File Id="21517843" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_F853F07F.wem</Path>
+						</File>
+						<File Id="27050687" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_7F4D5A58.wem</Path>
+						</File>
+						<File Id="71079489" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B01B5265.wem</Path>
+						</File>
+						<File Id="91185479" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_915FC383.wem</Path>
+						</File>
+						<File Id="95269134" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_64527C19.wem</Path>
+						</File>
+						<File Id="110727288" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_17C0A7BB.wem</Path>
+						</File>
+						<File Id="132400564" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_F6C44701.wem</Path>
+						</File>
+						<File Id="162607254" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_3E5569FD.wem</Path>
+						</File>
+						<File Id="218250027" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_F76EE25A.wem</Path>
+						</File>
+						<File Id="228978043" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_7B95C3B7.wem</Path>
+						</File>
+						<File Id="233967796" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_F542F86F.wem</Path>
+						</File>
+						<File Id="254715730" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_EACE3973.wem</Path>
+						</File>
+						<File Id="266759810" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_3AF47D02.wem</Path>
+						</File>
+						<File Id="272620754" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_910F88B2.wem</Path>
+						</File>
+						<File Id="274287634" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_6A3B28CF.wem</Path>
+						</File>
+						<File Id="284365088" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_6A946764.wem</Path>
+						</File>
+						<File Id="294150499" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_05B00C47.wem</Path>
+						</File>
+						<File Id="296003072" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_269E7D47.wem</Path>
+						</File>
+						<File Id="302277685" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_39A497C4.wem</Path>
+						</File>
+						<File Id="310941200" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_CC72E42B.wem</Path>
+						</File>
+						<File Id="328322864" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_194C56CE.wem</Path>
+						</File>
+						<File Id="366235805" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_39B7CD8C.wem</Path>
+						</File>
+						<File Id="374265442" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_0CC72E79.wem</Path>
+						</File>
+						<File Id="382485296" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_8F20DC4E.wem</Path>
+						</File>
+						<File Id="387025420" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_10E9324F.wem</Path>
+						</File>
+						<File Id="396382895" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_5076142A.wem</Path>
+						</File>
+						<File Id="399107087" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_9AD17543.wem</Path>
+						</File>
+						<File Id="412272981" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_1D322AF5.wem</Path>
+						</File>
+						<File Id="424207738" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_4AAD9B6E.wem</Path>
+						</File>
+						<File Id="425234816" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_E6B8AC1A.wem</Path>
+						</File>
+						<File Id="426264748" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_11930D3B.wem</Path>
+						</File>
+						<File Id="468314880" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_E86036B7.wem</Path>
+						</File>
+						<File Id="521725348" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_586F351C.wem</Path>
+						</File>
+						<File Id="525553363" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_731226DA.wem</Path>
+						</File>
+						<File Id="529255408" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_F380B26B.wem</Path>
+						</File>
+						<File Id="544664665" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B28E8129.wem</Path>
+						</File>
+						<File Id="556064647" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_DDFA4F2F.wem</Path>
+						</File>
+						<File Id="588002147" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_840DD029.wem</Path>
+						</File>
+						<File Id="606782406" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_694F9C00.wem</Path>
+						</File>
+						<File Id="637049207" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_DB2558B4.wem</Path>
+						</File>
+						<File Id="646613815" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_7F2B4F0E.wem</Path>
+						</File>
+						<File Id="649320753" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_CFFE7306.wem</Path>
+						</File>
+						<File Id="658632319" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_A6BD5958.wem</Path>
+						</File>
+						<File Id="715980549" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_80E853F6.wem</Path>
+						</File>
+						<File Id="742562557" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_C7FD2C7E.wem</Path>
+						</File>
+						<File Id="786900987" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_144E2EDB.wem</Path>
+						</File>
+						<File Id="792599299" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B0A568F7.wem</Path>
+						</File>
+						<File Id="793264070" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_B0946DCE.wem</Path>
+						</File>
+						<File Id="822659093" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_53D7C13D.wem</Path>
+						</File>
+						<File Id="823296816" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_F87D15ED.wem</Path>
+						</File>
+						<File Id="859520222" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_3923E60F.wem</Path>
+						</File>
+						<File Id="861982609" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_5FADBDD7.wem</Path>
+						</File>
+						<File Id="876206431" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_8E2CCC72.wem</Path>
+						</File>
+						<File Id="881490893" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_9A4937DC.wem</Path>
+						</File>
+						<File Id="892405700" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_67D780A1.wem</Path>
+						</File>
+						<File Id="904085980" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_E04F59D2.wem</Path>
+						</File>
+						<File Id="927459815" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_C8A876FA.wem</Path>
+						</File>
+						<File Id="944865212" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_83E5157A.wem</Path>
+						</File>
+						<File Id="950065325" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_61B2F611.wem</Path>
+						</File>
+						<File Id="966910430" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_105369BE.wem</Path>
+						</File>
+						<File Id="975165333" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_E3ED0FAE.wem</Path>
+						</File>
+						<File Id="980980977" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_416FD2E5.wem</Path>
+						</File>
+						<File Id="1003854320" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_312F0933.wem</Path>
+						</File>
+						<File Id="1010714265" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B986E176.wem</Path>
+						</File>
+						<File Id="1014819659" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_B8AA63AF.wem</Path>
+						</File>
+						<File Id="1023964474" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_3C0741CE.wem</Path>
+						</File>
+						<File Id="1037171971" Language="SFX">
+							<ShortName>Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Wood, Friction, Creak, Floor, Attic SND11625 3_7D4876A8.wem</Path>
+						</File>
+						<File Id="1046875391" Language="SFX">
+							<ShortName>Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Footsteps, Human, Dirty Ground, Walk SND62078_CC53522C.wem</Path>
+						</File>
+						<File Id="1069289213" Language="SFX">
+							<ShortName>Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2.wav</ShortName>
+							<Path>SFX\Player\Locomotion\Dirt &amp; Sand, Crash &amp; Debris, Gravel Drop On Ground SND1138 2_5F4C9D1C.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+					<DefaultSwitchValue>{115781E7-3F39-458C-9F98-96F7BFC3D81D}</DefaultSwitchValue>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{CA87091D-9F4A-44EF-8290-DC1AF8662711}">
+							<DefaultSwitchValue>{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}</DefaultSwitchValue>
+							<Children/>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{5DF3E83E-B817-4366-9CF7-F3C21623EC1D}">
+							<DefaultSwitchValue>{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}">
+									<Media>
+										<File Id="12110048"/>
+										<File Id="27050687"/>
+										<File Id="274287634"/>
+										<File Id="296003072"/>
+										<File Id="521725348"/>
+										<File Id="529255408"/>
+										<File Id="544664665"/>
+										<File Id="792599299"/>
+										<File Id="793264070"/>
+										<File Id="861982609"/>
+										<File Id="904085980"/>
+										<File Id="966910430"/>
+										<File Id="980980977"/>
+										<File Id="1010714265"/>
+										<File Id="1069289213"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{5DDE5731-AE8C-4915-A873-2A72DA8EDD94}">
+									<Media>
+										<File Id="3419481"/>
+										<File Id="228978043"/>
+										<File Id="382485296"/>
+										<File Id="396382895"/>
+										<File Id="399107087"/>
+										<File Id="881490893"/>
+										<File Id="1014819659"/>
+										<File Id="1046875391"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{D27C2945-64DD-4BA8-B043-D844C75D5A83}">
+									<Media>
+										<File Id="91185479"/>
+										<File Id="95269134"/>
+										<File Id="162607254"/>
+										<File Id="302277685"/>
+										<File Id="310941200"/>
+										<File Id="328322864"/>
+										<File Id="387025420"/>
+										<File Id="412272981"/>
+										<File Id="588002147"/>
+										<File Id="606782406"/>
+										<File Id="649320753"/>
+										<File Id="715980549"/>
+										<File Id="742562557"/>
+										<File Id="822659093"/>
+										<File Id="876206431"/>
+										<File Id="892405700"/>
+										<File Id="975165333"/>
+										<File Id="1037171971"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{B5B8F771-2EC9-4FBB-92EE-F54C084A5AE9}">
+							<DefaultSwitchValue>{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}</DefaultSwitchValue>
+							<Children/>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{115781E7-3F39-458C-9F98-96F7BFC3D81D}">
+							<DefaultSwitchValue>{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}</DefaultSwitchValue>
+							<Children>
+								<SwitchContainer SwitchValue="{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}">
+									<Media>
+										<File Id="71079489"/>
+										<File Id="254715730"/>
+										<File Id="284365088"/>
+										<File Id="366235805"/>
+										<File Id="424207738"/>
+										<File Id="525553363"/>
+										<File Id="637049207"/>
+										<File Id="658632319"/>
+										<File Id="927459815"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{5DDE5731-AE8C-4915-A873-2A72DA8EDD94}">
+									<Media>
+										<File Id="132400564"/>
+										<File Id="272620754"/>
+										<File Id="426264748"/>
+										<File Id="468314880"/>
+										<File Id="556064647"/>
+										<File Id="646613815"/>
+										<File Id="944865212"/>
+										<File Id="1023964474"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{D27C2945-64DD-4BA8-B043-D844C75D5A83}">
+									<Media>
+										<File Id="21517843"/>
+										<File Id="91185479"/>
+										<File Id="110727288"/>
+										<File Id="218250027"/>
+										<File Id="233967796"/>
+										<File Id="266759810"/>
+										<File Id="294150499"/>
+										<File Id="302277685"/>
+										<File Id="374265442"/>
+										<File Id="425234816"/>
+										<File Id="715980549"/>
+										<File Id="786900987"/>
+										<File Id="822659093"/>
+										<File Id="823296816"/>
+										<File Id="859520222"/>
+										<File Id="950065325"/>
+										<File Id="975165333"/>
+										<File Id="1003854320"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
+				</Event>
 			</IncludedEvents>
 			<GameParameters>
 				<GameParameter Id="1771880628" Name="Stamina" ObjectPath="\Game Parameters\Default Work Unit\Stamina" GUID="{FE6891A2-02D0-4339-B603-CA8B4C76E25B}"/>

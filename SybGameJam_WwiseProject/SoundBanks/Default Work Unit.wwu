@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{2A164A5E-5127-424E-9BB3-39CA491DC47E}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{D749EB70-6229-4F82-91CC-A42B7B1C4537}" SchemaVersion="103">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{2A164A5E-5127-424E-9BB3-39CA491DC47E}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{D749EB70-6229-4F82-91CC-A42B7B1C4537}" PersistMode="Standalone">
 			<ChildrenList>
 				<SoundBank Name="Master" ID="{D29F3021-46A8-4E55-8903-9B006D17C0A6}">
 					<ObjectInclusionList>

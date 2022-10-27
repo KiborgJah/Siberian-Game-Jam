@@ -25,6 +25,7 @@
 						<Value Platform="Windows">GeneratedSoundBanks\Windows\</Value>
 					</ValueList>
 				</Property>
+				<Property Name="LicenseKey" Type="string" Value="PHByb2plY3QgaWQ9IjEzNjYwIiBtYXNrPSJIWFNMODUxOSIgZW5jPSIwIj48bGljZW5zZSBpZD0iMSIgbmFtZT0iV3dpc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwxMCIgZXhwaXJlcz0iMjAyMy0wNS0wMSIgIC8+PGxpY2Vuc2UgaWQ9IjIxIiBuYW1lPSJNYWludGVuYW5jZSIgdHlwZT0iMyIgcGxhdGZvcm1zPSI0LDEwIiBleHBpcmVzPSIyMDIzLTA1LTAxIiAgLz48bGljZW5zZSBpZD0iNzAiIG5hbWU9IkluZGllIExpY2Vuc2UiIHR5cGU9IjMiIHBsYXRmb3Jtcz0iNCwxMCIgZXhwaXJlcz0iMjAyMy0wNS0wMSIgIC8+PC9wcm9qZWN0Pg==|BVTSKEryZOOgyyofPqwS/pTxqx7rkht9FTh0aOeUxAqQQHherEN30azNMHaECvRFJ7THsm6DtUKQPYP0DZGCqqARI+OkwYaIt7XugrC/JzjCfOgiIi7ZvgB4fGNq/QSxxSHU6uKuMBWa7ATCwYLOXupnnG1Db46NQFmVZigvl1QinKLuuPS1uO76Q/Bm8IMtVc+opOGNqHHDrz7zeKdVkEXLw2onrAC8UbPOE674I2zBCaeM5inXHK8sIjnAthLb6bPHd37RDi2yIqD5PtZYkFyYqpeoTQNALtvGDztzordqENe3mA4n0TmWoWwKZ8NryT3QhxUr4ux02PjQiACwKw=="/>
 				<Property Name="SoundBankHeaderFilePath" Type="string" Value="GeneratedSoundBanks\"/>
 				<Property Name="SoundBankPaths" Type="string">
 					<ValueList>
@@ -11884,7 +11885,7 @@
 					</ObsOccCurve>
 				</ObsOccCurves>
 			</EnvironmentalSettings>
-			<DefaultConversion Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}"/>
+			<DefaultConversion Name="Default Conversion Settings_01" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}"/>
 			<PhysicalFolderList>
 				<PhysicalFolder Path="Actor-Mixer Hierarchy">
 					<WorkUnit Name="Actor-Mixer Hierarchy" ID="{5EA7BBF8-64C0-4A50-8821-A07E8BE21D68}" PersistMode="Standalone"/>

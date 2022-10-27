@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{B20A764B-377E-45B2-AC2A-9E100499ED93}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{A1566383-BF78-4580-93B8-DA0F77C2FE02}" SchemaVersion="103">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{B20A764B-377E-45B2-AC2A-9E100499ED93}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{A1566383-BF78-4580-93B8-DA0F77C2FE02}" PersistMode="Standalone">
 			<ChildrenList>
 				<Folder Name="Player" ID="{881A2E53-5A00-4A45-AFFA-0EEC56CA1CB7}" ShortID="759389162">
 					<ChildrenList>
 						<Event Name="Breathing" ID="{A1F4E365-7404-40B9-B275-F0EBC40417A3}">
 							<ChildrenList>
-								<Action Name="" ID="{FA0322B5-52C5-4F4C-A3BD-0875766126EB}" ShortID="824219911">
+								<Action Name="" ID="{6CB52E61-EB07-47E1-9D80-2F034C4FE0CB}" ShortID="381690829">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="Breathing" ID="{5A94F797-B010-44F9-9234-F81CFB45D69B}" WorkUnitID="{CF94F949-30E5-4BAD-90FA-A69340A01344}"/>
+											<ObjectRef Name="Breathing" ID="{5A94F797-B010-44F9-9234-F81CFB45D69B}" WorkUnitID="{31661E8C-27C2-4F90-92E0-CCD350B6F48A}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -21,7 +21,7 @@
 								<Action Name="" ID="{9C44A163-E8B3-447F-ABED-D7CF7E8B3C4A}" ShortID="618922865">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="Locomotion" ID="{2ED58C72-84E9-4F1C-A1EF-40F9D0DECD11}" WorkUnitID="{CF94F949-30E5-4BAD-90FA-A69340A01344}"/>
+											<ObjectRef Name="Locomotion" ID="{2ED58C72-84E9-4F1C-A1EF-40F9D0DECD11}" WorkUnitID="{31661E8C-27C2-4F90-92E0-CCD350B6F48A}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

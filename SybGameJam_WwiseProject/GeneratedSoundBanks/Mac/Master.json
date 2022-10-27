@@ -16,7 +16,7 @@
     "Id": "4056684167",
     "GUID": "{D29F3021-46A8-4E55-8903-9B006D17C0A6}",
     "Language": "SFX",
-    "Hash": "1863265081",
+    "Hash": "3495633495",
     "ObjectPath": "\\SoundBanks\\Default Work Unit\\Master",
     "ShortName": "Master",
     "Path": "Master.bnk",
@@ -265,7 +265,718 @@
       "GUID": "{E2BB1318-B0AD-4F49-BA50-B40DD390F603}",
       "DurationType": "OneShot",
       "DurationMin": "0.",
-      "DurationMax": "0."
+      "DurationMax": "3.959887",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "3419481",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_59792B0E.wem"
+       },
+       {
+        "Id": "12110048",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_93C3C2B1.wem"
+       },
+       {
+        "Id": "21517843",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_F853F07F.wem"
+       },
+       {
+        "Id": "27050687",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_7F4D5A58.wem"
+       },
+       {
+        "Id": "71079489",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B01B5265.wem"
+       },
+       {
+        "Id": "91185479",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_915FC383.wem"
+       },
+       {
+        "Id": "95269134",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_64527C19.wem"
+       },
+       {
+        "Id": "110727288",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_17C0A7BB.wem"
+       },
+       {
+        "Id": "132400564",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_F6C44701.wem"
+       },
+       {
+        "Id": "162607254",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_3E5569FD.wem"
+       },
+       {
+        "Id": "218250027",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_F76EE25A.wem"
+       },
+       {
+        "Id": "228978043",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_7B95C3B7.wem"
+       },
+       {
+        "Id": "233967796",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_F542F86F.wem"
+       },
+       {
+        "Id": "254715730",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_EACE3973.wem"
+       },
+       {
+        "Id": "266759810",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_3AF47D02.wem"
+       },
+       {
+        "Id": "272620754",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_910F88B2.wem"
+       },
+       {
+        "Id": "274287634",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_6A3B28CF.wem"
+       },
+       {
+        "Id": "284365088",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_6A946764.wem"
+       },
+       {
+        "Id": "294150499",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_05B00C47.wem"
+       },
+       {
+        "Id": "296003072",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_269E7D47.wem"
+       },
+       {
+        "Id": "302277685",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_39A497C4.wem"
+       },
+       {
+        "Id": "310941200",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_CC72E42B.wem"
+       },
+       {
+        "Id": "328322864",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_194C56CE.wem"
+       },
+       {
+        "Id": "366235805",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_39B7CD8C.wem"
+       },
+       {
+        "Id": "374265442",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_0CC72E79.wem"
+       },
+       {
+        "Id": "382485296",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_8F20DC4E.wem"
+       },
+       {
+        "Id": "387025420",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_10E9324F.wem"
+       },
+       {
+        "Id": "396382895",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_5076142A.wem"
+       },
+       {
+        "Id": "399107087",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_9AD17543.wem"
+       },
+       {
+        "Id": "412272981",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_1D322AF5.wem"
+       },
+       {
+        "Id": "424207738",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_4AAD9B6E.wem"
+       },
+       {
+        "Id": "425234816",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_E6B8AC1A.wem"
+       },
+       {
+        "Id": "426264748",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_11930D3B.wem"
+       },
+       {
+        "Id": "468314880",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_E86036B7.wem"
+       },
+       {
+        "Id": "521725348",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_586F351C.wem"
+       },
+       {
+        "Id": "525553363",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_731226DA.wem"
+       },
+       {
+        "Id": "529255408",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_F380B26B.wem"
+       },
+       {
+        "Id": "544664665",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B28E8129.wem"
+       },
+       {
+        "Id": "556064647",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_DDFA4F2F.wem"
+       },
+       {
+        "Id": "588002147",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_840DD029.wem"
+       },
+       {
+        "Id": "606782406",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_694F9C00.wem"
+       },
+       {
+        "Id": "637049207",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_DB2558B4.wem"
+       },
+       {
+        "Id": "646613815",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_7F2B4F0E.wem"
+       },
+       {
+        "Id": "649320753",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_CFFE7306.wem"
+       },
+       {
+        "Id": "658632319",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_A6BD5958.wem"
+       },
+       {
+        "Id": "715980549",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_80E853F6.wem"
+       },
+       {
+        "Id": "742562557",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_C7FD2C7E.wem"
+       },
+       {
+        "Id": "786900987",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_144E2EDB.wem"
+       },
+       {
+        "Id": "792599299",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B0A568F7.wem"
+       },
+       {
+        "Id": "793264070",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_B0946DCE.wem"
+       },
+       {
+        "Id": "822659093",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_53D7C13D.wem"
+       },
+       {
+        "Id": "823296816",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_F87D15ED.wem"
+       },
+       {
+        "Id": "859520222",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_3923E60F.wem"
+       },
+       {
+        "Id": "861982609",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_5FADBDD7.wem"
+       },
+       {
+        "Id": "876206431",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_8E2CCC72.wem"
+       },
+       {
+        "Id": "881490893",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_9A4937DC.wem"
+       },
+       {
+        "Id": "892405700",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_67D780A1.wem"
+       },
+       {
+        "Id": "904085980",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_E04F59D2.wem"
+       },
+       {
+        "Id": "927459815",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_C8A876FA.wem"
+       },
+       {
+        "Id": "944865212",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_83E5157A.wem"
+       },
+       {
+        "Id": "950065325",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_61B2F611.wem"
+       },
+       {
+        "Id": "966910430",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_105369BE.wem"
+       },
+       {
+        "Id": "975165333",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Wood, Creaky, Sneaker, Medium SND1113 3_E3ED0FAE.wem"
+       },
+       {
+        "Id": "980980977",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_416FD2E5.wem"
+       },
+       {
+        "Id": "1003854320",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_312F0933.wem"
+       },
+       {
+        "Id": "1010714265",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirt, Dry, Sneaker, Medium SND1034 3_B986E176.wem"
+       },
+       {
+        "Id": "1014819659",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_B8AA63AF.wem"
+       },
+       {
+        "Id": "1023964474",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_3C0741CE.wem"
+       },
+       {
+        "Id": "1037171971",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3.wav",
+        "Path": "SFX\\Player\\Locomotion\\Wood, Friction, Creak, Floor, Attic SND11625 3_7D4876A8.wem"
+       },
+       {
+        "Id": "1046875391",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078.wav",
+        "Path": "SFX\\Player\\Locomotion\\Footsteps, Human, Dirty Ground, Walk SND62078_CC53522C.wem"
+       },
+       {
+        "Id": "1069289213",
+        "Language": "SFX",
+        "ShortName": "Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2.wav",
+        "Path": "SFX\\Player\\Locomotion\\Dirt & Sand, Crash & Debris, Gravel Drop On Ground SND1138 2_5F4C9D1C.wem"
+       }
+      ],
+      "DefaultSwitchValue": "{115781E7-3F39-458C-9F98-96F7BFC3D81D}",
+      "SwitchContainers": [
+       {
+        "SwitchValue": "{CA87091D-9F4A-44EF-8290-DC1AF8662711}",
+        "DefaultSwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+        "Children": []
+       },
+       {
+        "SwitchValue": "{5DF3E83E-B817-4366-9CF7-F3C21623EC1D}",
+        "DefaultSwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+        "Children": [
+         {
+          "SwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+          "Media": [
+           {
+            "Id": "12110048"
+           },
+           {
+            "Id": "27050687"
+           },
+           {
+            "Id": "274287634"
+           },
+           {
+            "Id": "296003072"
+           },
+           {
+            "Id": "521725348"
+           },
+           {
+            "Id": "529255408"
+           },
+           {
+            "Id": "544664665"
+           },
+           {
+            "Id": "792599299"
+           },
+           {
+            "Id": "793264070"
+           },
+           {
+            "Id": "861982609"
+           },
+           {
+            "Id": "904085980"
+           },
+           {
+            "Id": "966910430"
+           },
+           {
+            "Id": "980980977"
+           },
+           {
+            "Id": "1010714265"
+           },
+           {
+            "Id": "1069289213"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{5DDE5731-AE8C-4915-A873-2A72DA8EDD94}",
+          "Media": [
+           {
+            "Id": "3419481"
+           },
+           {
+            "Id": "228978043"
+           },
+           {
+            "Id": "382485296"
+           },
+           {
+            "Id": "396382895"
+           },
+           {
+            "Id": "399107087"
+           },
+           {
+            "Id": "881490893"
+           },
+           {
+            "Id": "1014819659"
+           },
+           {
+            "Id": "1046875391"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{D27C2945-64DD-4BA8-B043-D844C75D5A83}",
+          "Media": [
+           {
+            "Id": "91185479"
+           },
+           {
+            "Id": "95269134"
+           },
+           {
+            "Id": "162607254"
+           },
+           {
+            "Id": "302277685"
+           },
+           {
+            "Id": "310941200"
+           },
+           {
+            "Id": "328322864"
+           },
+           {
+            "Id": "387025420"
+           },
+           {
+            "Id": "412272981"
+           },
+           {
+            "Id": "588002147"
+           },
+           {
+            "Id": "606782406"
+           },
+           {
+            "Id": "649320753"
+           },
+           {
+            "Id": "715980549"
+           },
+           {
+            "Id": "742562557"
+           },
+           {
+            "Id": "822659093"
+           },
+           {
+            "Id": "876206431"
+           },
+           {
+            "Id": "892405700"
+           },
+           {
+            "Id": "975165333"
+           },
+           {
+            "Id": "1037171971"
+           }
+          ]
+         }
+        ]
+       },
+       {
+        "SwitchValue": "{B5B8F771-2EC9-4FBB-92EE-F54C084A5AE9}",
+        "DefaultSwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+        "Children": []
+       },
+       {
+        "SwitchValue": "{115781E7-3F39-458C-9F98-96F7BFC3D81D}",
+        "DefaultSwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+        "Children": [
+         {
+          "SwitchValue": "{45284A07-4DA1-4CED-A9F2-3AB3A54CA77D}",
+          "Media": [
+           {
+            "Id": "71079489"
+           },
+           {
+            "Id": "254715730"
+           },
+           {
+            "Id": "284365088"
+           },
+           {
+            "Id": "366235805"
+           },
+           {
+            "Id": "424207738"
+           },
+           {
+            "Id": "525553363"
+           },
+           {
+            "Id": "637049207"
+           },
+           {
+            "Id": "658632319"
+           },
+           {
+            "Id": "927459815"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{5DDE5731-AE8C-4915-A873-2A72DA8EDD94}",
+          "Media": [
+           {
+            "Id": "132400564"
+           },
+           {
+            "Id": "272620754"
+           },
+           {
+            "Id": "426264748"
+           },
+           {
+            "Id": "468314880"
+           },
+           {
+            "Id": "556064647"
+           },
+           {
+            "Id": "646613815"
+           },
+           {
+            "Id": "944865212"
+           },
+           {
+            "Id": "1023964474"
+           }
+          ]
+         },
+         {
+          "SwitchValue": "{D27C2945-64DD-4BA8-B043-D844C75D5A83}",
+          "Media": [
+           {
+            "Id": "21517843"
+           },
+           {
+            "Id": "91185479"
+           },
+           {
+            "Id": "110727288"
+           },
+           {
+            "Id": "218250027"
+           },
+           {
+            "Id": "233967796"
+           },
+           {
+            "Id": "266759810"
+           },
+           {
+            "Id": "294150499"
+           },
+           {
+            "Id": "302277685"
+           },
+           {
+            "Id": "374265442"
+           },
+           {
+            "Id": "425234816"
+           },
+           {
+            "Id": "715980549"
+           },
+           {
+            "Id": "786900987"
+           },
+           {
+            "Id": "822659093"
+           },
+           {
+            "Id": "823296816"
+           },
+           {
+            "Id": "859520222"
+           },
+           {
+            "Id": "950065325"
+           },
+           {
+            "Id": "975165333"
+           },
+           {
+            "Id": "1003854320"
+           }
+          ]
+         }
+        ]
+       }
+      ]
      }
     ],
     "GameParameters": [

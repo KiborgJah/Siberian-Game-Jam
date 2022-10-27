@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{45360EBB-9F47-4F09-AE05-F1FB0F563631}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{7723C225-9E56-4130-8321-4CCB49389912}" SchemaVersion="103">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{45360EBB-9F47-4F09-AE05-F1FB0F563631}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{7723C225-9E56-4130-8321-4CCB49389912}" PersistMode="Standalone">
 			<ChildrenList>
 				<GameParameter Name="Stamina" ID="{FE6891A2-02D0-4339-B603-CA8B4C76E25B}">
 					<PropertyList>

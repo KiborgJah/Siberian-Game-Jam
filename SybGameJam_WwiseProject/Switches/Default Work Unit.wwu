@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{0D6EF766-30D2-49F0-8F6B-225D6A2443A1}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{21DD3085-5855-4C25-8036-14CE1DF17785}" SchemaVersion="103">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{0D6EF766-30D2-49F0-8F6B-225D6A2443A1}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{21DD3085-5855-4C25-8036-14CE1DF17785}" PersistMode="Standalone">
 			<ChildrenList>
 				<SwitchGroup Name="Locomotion" ID="{6490976E-B406-4D46-8A3A-8FACD499A23C}">
 					<ChildrenList>

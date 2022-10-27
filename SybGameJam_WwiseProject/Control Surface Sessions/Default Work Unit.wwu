@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{839F57AE-6A5F-4780-854F-8AED97A2B22E}" SchemaVersion="103">
+<WwiseDocument Type="WorkUnit" ID="{F72A2A0F-42DF-41B6-BF0E-8F2D699CD31F}" SchemaVersion="103">
 	<ControlSurfaceSessions>
-		<WorkUnit Name="Default Work Unit" ID="{839F57AE-6A5F-4780-854F-8AED97A2B22E}" PersistMode="Standalone">
+		<WorkUnit Name="Default Work Unit" ID="{F72A2A0F-42DF-41B6-BF0E-8F2D699CD31F}" PersistMode="Standalone">
 			<ChildrenList>
-				<ControlSurfaceSession Name="Default Control Surface Session" ID="{2451DD2E-A7B2-45E6-B93B-6F49B9B887AD}">
+				<ControlSurfaceSession Name="Default Control Surface Session" ID="{9AB66BFA-622E-404E-8538-47DCB079267A}">
 					<ChildrenList>
-						<ControlSurfaceBindingGroup Name="Global" ID="{52253A8E-0EC9-41E0-8E66-0688E531AD82}"/>
-						<ControlSurfaceBindingGroup Name="Current Selection" ID="{9AC37695-D4AC-483E-9D0A-72122AC24CEB}">
+						<ControlSurfaceBindingGroup Name="Global" ID="{15D8B6AE-745C-4547-ADEF-44F0C69AB336}"/>
+						<ControlSurfaceBindingGroup Name="Current Selection" ID="{75D0882A-D50D-414B-B0FF-55DE2401A61F}">
 							<PropertyList>
 								<Property Name="GroupType" Type="int16" Value="4"/>
 							</PropertyList>
 							<ChildrenList>
-								<ControlSurfaceBinding Name="Binding" ID="{1C9700C8-ECDA-4291-A89A-EFC663D30773}">
+								<ControlSurfaceBinding Name="Binding" ID="{524144F7-142B-418B-818F-155871AC133E}">
 									<PropertyList>
 										<Property Name="TargetName" Type="string" Value="PassMidiNote"/>
 										<Property Name="TargetType" Type="int16" Value="1"/>
@@ -19,7 +19,7 @@
 								</ControlSurfaceBinding>
 							</ChildrenList>
 						</ControlSurfaceBindingGroup>
-						<ControlSurfaceBindingGroup Name="View Groups" ID="{112496D0-2BBA-4303-AEB4-6F29E14318B4}">
+						<ControlSurfaceBindingGroup Name="View Groups" ID="{D7FEC1A6-7A38-4A09-B5AA-962991CBDE6D}">
 							<PropertyList>
 								<Property Name="GroupType" Type="int16" Value="3"/>
 							</PropertyList>
